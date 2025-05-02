@@ -41,7 +41,7 @@ RUN rm ./requirements.txt
 USER appuser
 
 # Copy fluxgym application code
-COPY . ./fluxgym
+#COPY . ./fluxgym
 
 EXPOSE 7860
 
