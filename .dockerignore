@@ -2,7 +2,10 @@
 cudnn_windows/
 bitsandbytes_windows/
 bitsandbytes_windows_deprecated/
-dataset/
+datasets/
+models/
+outputs/
+sd-scripts/
 __pycache__/
 venv/
 **/.hadolint.yml
@@ -13,4 +16,3 @@ venv/
 **/.github
 **/.vscode
 **/*.ps1
-sd-scripts/
